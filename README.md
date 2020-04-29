@@ -1,5 +1,6 @@
 # airbnb_seattleData_analysis
 Analyzing insights using https://www.kaggle.com/airbnb/seattle/data#
+Blog Post on Results - https://medium.com/@punith.kesarkar/airbnb-seattle-insights-on-reviews-1fdb7f518820
 
 The folder airbnb_analysis_seattle_data contains the following:
 calendar.csv
